@@ -35,5 +35,5 @@ To deploy and explore this management ecosystem locally, follow these steps:
 
 4. **Execute the Application Engine:**
    ```bash
-   python "IP project.py"
+   python "main.py"
    ```
